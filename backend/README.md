@@ -23,6 +23,7 @@ Main Orchestrator Agent (Sonnet)
 
 ---
 
+
 ## Setup Instructions
 
 ### Prerequisites
@@ -269,6 +270,5 @@ For issues or questions:
 
 ---
 
-**Built with Claude Agent SDK**
 **Direct PostgreSQL access via Model Context Protocol**
 **Multi-agent orchestration for intelligent financial coaching**
