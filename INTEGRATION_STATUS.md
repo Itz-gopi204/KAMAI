@@ -81,6 +81,7 @@ Frontend (Auth.tsx)
       → POST http://localhost:8000/api/analyze
 ```
 
+
 ### ✅ AI Analysis Flow
 ```
 User Login/Signup
@@ -105,6 +106,7 @@ User uploads image/voice
   → Frontend saves transaction
     → database.ts → Supabase (Direct)
 ```
+
 
 ---
 
